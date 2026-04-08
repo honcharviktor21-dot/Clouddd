@@ -1,0 +1,4 @@
+{
+  "name": "GitHub Cloud Lab",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu"
+}
